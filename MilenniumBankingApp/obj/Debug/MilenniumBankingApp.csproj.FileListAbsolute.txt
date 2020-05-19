@@ -1,0 +1,10 @@
+C:\Users\mecoz\source\repos\MilenniumBankingApp\MilenniumBankingApp\bin\Debug\MilenniumBankingApp.exe.config
+C:\Users\mecoz\source\repos\MilenniumBankingApp\MilenniumBankingApp\bin\Debug\MilenniumBankingApp.exe
+C:\Users\mecoz\source\repos\MilenniumBankingApp\MilenniumBankingApp\bin\Debug\MilenniumBankingApp.pdb
+C:\Users\mecoz\source\repos\MilenniumBankingApp\MilenniumBankingApp\obj\Debug\MilenniumBankingApp.csprojAssemblyReference.cache
+C:\Users\mecoz\source\repos\MilenniumBankingApp\MilenniumBankingApp\obj\Debug\MilenniumBankingApp.loginForm.resources
+C:\Users\mecoz\source\repos\MilenniumBankingApp\MilenniumBankingApp\obj\Debug\MilenniumBankingApp.Properties.Resources.resources
+C:\Users\mecoz\source\repos\MilenniumBankingApp\MilenniumBankingApp\obj\Debug\MilenniumBankingApp.csproj.GenerateResource.cache
+C:\Users\mecoz\source\repos\MilenniumBankingApp\MilenniumBankingApp\obj\Debug\MilenniumBankingApp.csproj.CoreCompileInputs.cache
+C:\Users\mecoz\source\repos\MilenniumBankingApp\MilenniumBankingApp\obj\Debug\MilenniumBankingApp.exe
+C:\Users\mecoz\source\repos\MilenniumBankingApp\MilenniumBankingApp\obj\Debug\MilenniumBankingApp.pdb
